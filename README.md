@@ -1,6 +1,6 @@
 # TM Cobots USD
 
-USD assets for Techman Robot cobots.
+USD assets for Techman Cobots.
 
 | Directory | Series |
 |---|---|
